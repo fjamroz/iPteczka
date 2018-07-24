@@ -1,0 +1,2 @@
+# iPteczka
+PHP, MySQL, HTML
